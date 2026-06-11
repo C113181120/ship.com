@@ -1,9 +1,12 @@
+#智慧船班
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="app-image1.png" />
 </div>
 
-# Run and deploy your AI Studio app
-
+# 系統功能
+<div align="center">
+<img  src="[app-image1.png](https://github.com/C113181120/114-2_APPDEV/blob/main/week-16/C113181120-week16.png)" />
+</div>
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/110c6a3a-9597-45d6-ad48-14dcc69ee649
