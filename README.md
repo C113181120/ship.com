@@ -5,7 +5,7 @@
 
 # 系統功能
 <div align="center">
-<img  src="[app-image1.png](https://github.com/C113181120/114-2_APPDEV/blob/main/week-16/C113181120-week16.png)" />
+<img  src="C113181120-week16.png" />
 </div>
 This contains everything you need to run your app locally.
 
