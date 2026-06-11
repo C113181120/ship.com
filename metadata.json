@@ -1,0 +1,6 @@
+{
+  "name": "智慧船班",
+  "description": "智慧輪船航班即時追蹤、到離站預測、多元資料整合與到站通知推播助手 (Smart Ferry Dynamic Tracking, Arrival Prediction & Security Alert Assistant)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
